@@ -40,4 +40,4 @@ depending on how many times you want to repeat the tests. example: for 50 times 
 
 Wait for the run to finish and a browser tab will open with the results.
 
-![pstexp5](https://user-images.githubusercontent.com/123102700/215068513-96c5170c-d9a2-4f1f-948f-54d61eb2ec41.png)
+![pstexp5](https://user-images.githubusercontent.com/123102700/215069040-b99ca751-b566-4595-b491-88ebf148c9a7.png)
